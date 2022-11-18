@@ -1,0 +1,8 @@
+.main-cointainer{
+    width: 1300px;
+    margin: auto;
+    margin-top: 2px;
+}
+.game-intro{
+    min-width: 100%!important;
+}
